@@ -1,6 +1,6 @@
-# Awka Direct — Frontend MVP
+# Awka Direct — Frontend
 
-A simplified, responsive frontend prototype for an Awka, Anambra State rental marketplace. It is intentionally limited to the core MVP screens and uses larger text and controls.
+A simplified, responsive frontend prototype for an Awka, Anambra State rental marketplace. It is intentionally limited to the core MVP screens.
 
 ## Run it
 
